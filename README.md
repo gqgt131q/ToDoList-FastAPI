@@ -85,7 +85,7 @@ Frontend:
 
     bash
 
-    uvicorn main:app --reload
+    python main.py
 
 Открыть в браузере:
 
